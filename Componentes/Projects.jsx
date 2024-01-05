@@ -10,7 +10,7 @@ function Projects({img, title, content, link}) {
     <div className='projects'>
       <h1> PROJECTS</h1>
       <div className='project-content'>
-        <img src={`assets/${img}`} />
+        <img src={`dist/assets/${img}`} />
         <h3>{title}</h3>
         <p>
         {content}
