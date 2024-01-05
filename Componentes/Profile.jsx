@@ -11,7 +11,7 @@ function Profile() {
     <div className='profile-grid'>
       
       <div className='container'>
-        <img src='./src/assets/yo1.jpg' className='image'/>
+        <img src='images/yo1.jpg' className='image'/>
         <div className='info'>
           <h1>Franco D'Agostino</h1>
           <p>
