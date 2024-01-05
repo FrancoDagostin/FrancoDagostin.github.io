@@ -1,7 +1,7 @@
 [
   {
     "id":"1",
-    "img": "assets/Twitter-clone.jpg",
+    "img": "Twitter-clone.jpg",
     "title": "Twitter Clone",
     "content": "This is my Twitter home page clone. I started learning React with this project. Every part of this home page is a reusable component which can be used for other projects. Once the layout was finished I learned how to ask an API data to generate the posts. With this project I learned the React basics and improve my HTML and CSS skills by styling all the components.",
     "link":"https://github.com/FrancoDagostin/Twitter-Clone"
