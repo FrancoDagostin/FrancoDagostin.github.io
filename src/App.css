@@ -120,6 +120,7 @@ body{
   border-radius: 50px;
   color: black;
   font-weight: bold;
+  cursor: pointer;
 }
 .button:hover{
   background-color: rgb(255, 208, 0);
