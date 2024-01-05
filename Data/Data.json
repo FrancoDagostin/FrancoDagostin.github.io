@@ -1,28 +1,28 @@
 [
   {
     "id":"1",
-    "img": "Twitter-clone.jpg",
+    "img": "https://pbs.twimg.com/media/GDGfQOkXoAAzjBf?format=jpg&name=small",
     "title": "Twitter Clone",
     "content": "This is my Twitter home page clone. I started learning React with this project. Every part of this home page is a reusable component which can be used for other projects. Once the layout was finished I learned how to ask an API data to generate the posts. With this project I learned the React basics and improve my HTML and CSS skills by styling all the components.",
     "link":"https://github.com/FrancoDagostin/Twitter-Clone"
   },
   {
     "id":"2",
-    "img": "Shop-project.jpg",
+    "img": "https://pbs.twimg.com/media/GDGfTPQXYAAej-b?format=jpg&name=small",
     "title": "Franco Shop",
     "content": "This shop project introduced me to a huge amount of React functionalities like useState, useEffect and React-Router-DOM. I learned how to make reactive components and navigation through each of them as well as between sections and categories. Also I learned how to ask for data from a JSON and map it into the app which simplified coding a lot.",
     "link":"https://github.com/FrancoDagostin/Franco-Shop"
   },
   {
     "id":"3",
-    "img": "FollowCard-project.jpg",
+    "img": "https://pbs.twimg.com/media/GDGfWIFXwAArm1e?format=jpg&name=small",
     "title": "Twitter Follow Card",
     "content": "This was my first React project, where I learned the fundamentals about this JavaScript library. I learned how to make components, import useState and map function. I understand the state of components and how to change it to make the web page interactive.",
     "link":"https://github.com/FrancoDagostin/Twitter-Follow-Card"
   },
   {
     "id":"4",
-    "img": "Youtube-project.jpg",
+    "img": "https://pbs.twimg.com/media/GDGfZROXAAAeZSt?format=jpg&name=small",
     "title": "YouTube Clone",
     "content": "This YouTube Clone was created using only HTML and CSS. Making this projects I learned the fundamentals of HTML schematizing and CSS styling. Learned about Grid, Flexbox as well as divs, sections and other HTML tags.",
     "link":"https://github.com/FrancoDagostin/YouTube-Clone"
